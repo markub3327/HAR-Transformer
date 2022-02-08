@@ -1,6 +1,8 @@
 # HAR-Transformer
 Transformer for Human Activity Recognition
 
+[Preprints](https://www.preprints.org/manuscript/202202.0111/v1)
+
 ![Tag](https://img.shields.io/github/v/tag/markub3327/HAR-Transformer)
 [![Issues](https://img.shields.io/github/issues/markub3327/HAR-Transformer)](https://github.com/markub3327/HAR-Transformer/issues)
 ![Commits](https://img.shields.io/github/commit-activity/w/markub3327/HAR-Transformer)
