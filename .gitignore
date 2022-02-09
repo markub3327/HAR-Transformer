@@ -1,0 +1,5 @@
+# ignore datasets from repo
+dataset/*/
+
+# MacOS
+.DS_Store

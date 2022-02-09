@@ -1,4 +1,4 @@
-# HAR-Transformer
+# HAR Transformer
 Transformer for Human Activity Recognition
 
 [Preprints](https://www.preprints.org/manuscript/202202.0111/v1)
@@ -20,7 +20,22 @@ The Transformer for Human Activity Recognition operates in sequence-to-sequence 
 
 ## Model
 
-![model](model.png)
+<p align="center">
+  <b>Transformer for Human Activity Recognition</b>
+  <img src="img/model.png">
+</p>
+
+## Results
+
+<p align="center">
+  <b>Confusion matrix</b>
+  <img src="img/output.png" style="background-color: white;">
+</p>
+
+<p align="center">
+  <b>Hyperparameters</b>
+  <img src="img/hyperparams.png">
+</p>
 
 ----------------------------------
 
