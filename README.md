@@ -21,7 +21,6 @@ The Transformer for Human Activity Recognition operates in sequence-to-sequence 
 ## Model
 
 <p align="center">
-  <b>Transformer for Human Activity Recognition</b>
   <img src="img/model.png">
 </p>
 
