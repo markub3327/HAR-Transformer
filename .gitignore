@@ -1,5 +1,9 @@
 # ignore datasets from repo
 dataset/*/
+dataset/*.npz
+
+# Weights & Biases
+wandb/
 
 # MacOS
 .DS_Store
