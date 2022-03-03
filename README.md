@@ -1,7 +1,7 @@
 # HAR Transformer
 Transformer for Human Activity Recognition
 
-[Preprints](https://www.preprints.org/manuscript/202202.0111/v1)
+Please check our paper [Wearable Sensor-Based Human Activity Recognition with Transformer Model](https://www.mdpi.com/1424-8220/22/5/1911) for more details.
 
 ![Tag](https://img.shields.io/github/v/tag/markub3327/HAR-Transformer)
 [![Issues](https://img.shields.io/github/issues/markub3327/HAR-Transformer)](https://github.com/markub3327/HAR-Transformer/issues)
