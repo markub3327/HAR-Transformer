@@ -21,14 +21,14 @@ The Transformer for Human Activity Recognition operates in sequence-to-sequence 
 ## Model
 
 <p align="center">
-  <img src="img/model.png">
+  <img src="img/model.png" style="background-color: white;">
 </p>
 
 ## Results
 
 <p align="center">
   <b>Confusion matrix</b>
-  <img src="img/output.png" style="background-color: white;">
+  <img src="img/result.png" style="background-color: white;">
 </p>
 
 <p align="center">
