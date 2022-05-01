@@ -7,6 +7,8 @@ Please check our paper [Wearable Sensor-Based Human Activity Recognition with Tr
 [![Issues](https://img.shields.io/github/issues/markub3327/HAR-Transformer)](https://github.com/markub3327/HAR-Transformer/issues)
 ![Commits](https://img.shields.io/github/commit-activity/w/markub3327/HAR-Transformer)
 ![Size](https://img.shields.io/github/repo-size/markub3327/HAR-Transformer)
+[![Visits](https://badges.pufler.dev/visits/markub3327/HAR-Transformer)](https://badges.pufler.dev)
+[![Updated](https://badges.pufler.dev/updated/markub3327/HAR-Transformer)](https://badges.pufler.dev)
 
 ## Papers
   * Sikder, N.; Nahid, A.A.; KU-HAR: An open dataset for heterogeneous human activity recognition. Pattern Recognition Letters 2021, 146, 46-54, DOI: 10.1016/j.patrec.2021.02.024.
