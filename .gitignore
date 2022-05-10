@@ -1,6 +1,7 @@
 # ignore datasets from repo
 dataset/*/
 dataset/*.npz
+dataset/*.csv
 
 # Weights & Biases
 wandb/
